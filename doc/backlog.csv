@@ -1,0 +1,12 @@
+backlog_item,sprint,user_story," dod"
+001,1,"as an administrator, I want to be able to manage user accounts","administrators can create, update, & delete user accounts"
+002,1,"as an administrator, I want to be able to manage parking spaces","administrators can create, update, & delete parking spaces"
+003,,"as an administrator, I want to be able to assign users to spaces so that those users will have preference for their parking spaces","administrators can assign, and deassign users to parking spaces"
+004,"","as an administrator, I want seperate user accounts to be denied administrative access","two users types; administrator, and user with the latter not having access to appropriate CRUD operations"
+005,1,"as an administrator, or user, I want to be able to login and out of the system",users can login and log out given the corrrect credentials
+006,1,"as an administrator, I want to be able to manage bookings","administrators can create, update, & delete bookings for parking spaces"
+007,"","as an administrator, I want to be able to specify a range in time, and/or spaces, and/or users to recalculate automatic bookings","administrators can recalulcate automatic bookings based on a filtered list of available spaces by either or all of time, spaces, users"
+008,"","as an administrator, I want to be able to have the system automatically schedule bookings for a given period or time / spaces / users, for a given frequency.","administrators can schedule recalulcations based on multiple criteria; time, space, users, based of a supplied frequency (daily, weekly, monthly)."
+009,"","as a user, I want to be able to manage my working days","users can add, and update their working days for use in the generated bookings"
+010,"","as a user, I want to be able to manage my bookings","users can view, and cancel their bookings"
+011,"","as a user, I want to view bookings based on search criteria","users can view all bookings, adding additional criteria on users, spaces, and date if supplied."
